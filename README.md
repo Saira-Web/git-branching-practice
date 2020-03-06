@@ -1,2 +1,3 @@
-Q-sample. What is the largest planet in the solar system?
-Q-1. What is the purpose of branches in git hub.
+
+Q-2. What is the purpose of branches in git hub.
+A-2. Branching allows each developer to branch out from original code base and isolate their work from other.
