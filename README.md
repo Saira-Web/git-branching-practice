@@ -1,7 +1,5 @@
-Q-1. What is the largest planet in the solar system?
-Q-2. What is the purpose of branches in git hub?
-Q-3. What can you learn from a bird if you are afraid of branches?
-Q-4. What is a merge?
-Q-5. When you look for something, why is it always in the last place you look?
-Q-6. What is rebasing?
 Q-7. What's the best joke you have ever been told by a 6 years old?
+A-7. Teacher to a new student: Where were you born?
+     Student                  : In India.
+     Teacher                  : Oh nice, which part?
+     Student                  : What do you mean which part, my whole body was born in India
